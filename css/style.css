@@ -1,6 +1,7 @@
 /* Custom styles */
 body {
   scroll-behavior: smooth;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 header {
